@@ -1,0 +1,2 @@
+crop_type = "fraction"
+crop_fraction = [0.5, 0.5, 0.5]

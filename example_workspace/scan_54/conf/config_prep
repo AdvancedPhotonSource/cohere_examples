@@ -1,0 +1,3 @@
+data_dir = "EXP_DIR/example_data/AD34idcTIM2_example"
+darkfield_filename = "EXP_DIR/example_data/dark.tif"
+whitefield_filename = "EXP_DIR/example_data/whitefield.tif"

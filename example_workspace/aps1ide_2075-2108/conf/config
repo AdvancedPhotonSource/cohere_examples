@@ -1,0 +1,5 @@
+working_dir = "EXP_DIR/example_workspace"
+experiment_id = "aps1ide"
+scan = "2075-2108"
+beamline = "aps_1ide"
+converter_ver = 3
