@@ -1,7 +1,6 @@
 import os
 
-exp_dir = os.path.dirname(os.path.abspath(__file__))
-
+exp_dir = os.path.dirname(os.path.abspath(__file__)).replace(os.sep, '/')
 with open(f'{exp_dir}/example_workspace/scan_54/conf/config', 'r') as file:
     filedata = file.read()
 filedata = filedata.replace('EXP_DIR', exp_dir)
