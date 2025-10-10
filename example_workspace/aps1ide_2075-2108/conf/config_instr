@@ -1,4 +1,7 @@
 diffractometer = "1ide"
+data_dir = "/net/s34data/export/34idc-data/2024/APS1ID/mpe_dec24/asi/ADQMPX3_mpe_dec24/"
+whitefield_filename = "cohere_ui/beamlines/aps_1ide/detector_corrections/oldwf.tif"
+roi = [0, 256, 256, 256]
 vff_r_offset = -0.107
 vff_eta_offset = 0.232
 energy = 52.0

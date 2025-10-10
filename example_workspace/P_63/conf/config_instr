@@ -1,6 +1,8 @@
 diffractometer = "P10sixc"
 data_dir = "cohere-test/data"
 sample = "MC811_BETI_insitu_1"
+darkfield_filename = "cohere-test/data/MC811_BETI_insitu_1_00063/p10_e4m_mask.npy"
+detector_module = 6
 energy = 8789.935884521246
 del = 16.89999999999999
 gam = 1.35
